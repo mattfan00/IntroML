@@ -1,3 +1,3 @@
-# Introduction to Machine Learning (Coursera) 
+# Introduction to Machine Learning 
 
-This is a collection of my answers to the exercises provided in the Introduction to Machine Learning course taught by Andrew Ng. These answers are coded in Python, rather than Octave/MATLAB.   
+This repository contains some of the machine learning exercises I've done
